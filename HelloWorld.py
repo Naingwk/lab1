@@ -1,2 +1,1 @@
-print("ET0735 - DevOps")
-Hello just testing
+print("ET0735 - DevOps for ALoT")
